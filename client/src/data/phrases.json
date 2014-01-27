@@ -278,7 +278,7 @@
     "futures": {
       "en": "Futures",
       "ct": "meow",
-      "ne": "Futures",
+      "ne": "Toekomsten",
       "lt": "Ateities taškai",
       "hu": "Jövendők",
       "nb": "Fremtider"
@@ -287,7 +287,7 @@
     "showFutures": {
       "en": "Show Futures",
       "ct": "meow",
-      "ne": "Laat Futures zien",
+      "ne": "Laat Toekomsten zien",
       "lt": "Rodyti ateities sugebėjimus",
       "hu": "Jövendők Mutatása",
       "nb": "Vis fremtider"
@@ -1791,7 +1791,7 @@
       },
       "desc": {
         "en": "Every action has a 50% chance to fail.",
-        "ne": "Elke actie heeft 50% kans om te valen.",
+        "ne": "Elke actie heeft 50% kans om te falen.",
         "lt": "Kiekvienas veiksmas turi 50% galimybę susimauti.",
         "hu": "Every action has a 50% chance to fail.",
         "nb": "Hvert gjøremål har en 50% sjangse for å mislykkes."
